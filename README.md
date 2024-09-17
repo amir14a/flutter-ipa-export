@@ -1,7 +1,10 @@
 # flutter_ipa_export
 
-A new Flutter project.
+This is an example app with github actions CI/CD to build ipa version of a flutter app.
+IPA is iOS apps file extension and you can upload this files to iOS stores or directly install on
+your own phone with help of [Sideloadly](https://sideloadly.io)
+** You don't need to have a mac computer or apple developer account for using this method **
+Please refer to this youtube video for more information:
+[this youtube video](https://www.youtube.com/watch?v=C7Bkm4KYk98)
 
-
-https://github.com/user-attachments/assets/48e4e543-b6e2-4858-a8a2-6dde60376026
 
