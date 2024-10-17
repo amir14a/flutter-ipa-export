@@ -1,4 +1,4 @@
-windows/* linguist-vendored
-ios/* linguist-vendored
-web/* linguist-vendored
-android/* linguist-vendored
+windows/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+android/** linguist-vendored
