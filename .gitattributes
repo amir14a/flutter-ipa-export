@@ -1,6 +1,4 @@
-*.dart linguist-detectable=true
-*.cpp linguist-detectable=false
-*.c linguist-detectable=false
-*.cmake linguist-detectable=false
-*.html linguist-detectable=false
-*.js linguist-detectable=false
+windows/* linguist-vendored
+ios/* linguist-vendored
+web/* linguist-vendored
+android/* linguist-vendored
